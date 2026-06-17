@@ -1,0 +1,6 @@
+{
+  "name": "Paws & Co.",
+  "description": "Premium Creamy Brown Pet Products Store App with Full Local Authentication, Database Tracking, and Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
